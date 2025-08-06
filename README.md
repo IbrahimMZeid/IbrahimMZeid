@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🚀 Technical Skills
+
+| 🧠 **Category**                     | **Technologies**                                                                                  |
+|------------------------------------|----------------------------------------------------------------------------------------------------|
+| ⚙️ **Backend Development**         | `C# (.NET Core)` `ASP.NET Core (API & MVC)` `LINQ` `EF Core` `Microsoft SQL Server` `JWT` `Unit Testing` |
+| 🎨 **Frontend Technologies**       | `HTML` `CSS` `Bootstrap` `JavaScript (ES6+)` `Ajax` `TypeScript` `Angular`                         |
+| 🧱 **Software Engineering**        | `OOP` `Clean Code` `Agile Methodology` `Software Development Life Cycle (SDLC)`                   |
+| 🤝 **Soft Skills**                | `Problem Solving` `Adaptable Learner` `Communication & Collaboration` `Teamwork` `Time Management` `Dependable` |
+| 🛠️ **Tools & Platforms**          | `Git` `GitHub` `Visual Studio` `Visual Studio Code` `Swagger` `Postman`                           |
